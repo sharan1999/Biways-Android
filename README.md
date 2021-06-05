@@ -11,9 +11,7 @@
   <h3 align="center">BIWAYS</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://biways.in"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   <a href="https://play.google.com/store/apps/details?id=com.sharandeveloper.anjac.biways">View Demo</a>
